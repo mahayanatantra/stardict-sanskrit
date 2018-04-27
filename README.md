@@ -22,10 +22,12 @@ Options:
 
 # Dictionary developer instructions
 ## Initial  setup.
-* Extract the latest stardict tools package (<https://sourceforge.net/projects/stardict-4/files/3.0.1/stardict-tools-3.0.1.tar.bz2/download>) in ~/stardict/tools directory. Then do `cd stardict/tools` and build it (Run `./configure` and `make` as described in the INSTALL file in the directory - but don't remove the compiled binaries from the src directory.).
+- Extract the latest stardict tools package (<https://sourceforge.net/projects/stardict-4/files/3.0.1/stardict-tools-3.0.1.tar.bz2/download>) in ~/stardict/tools directory. Then do `cd stardict/tools` and build it (Run `./configure` and `make` as described in the INSTALL file in the directory - but don't remove the compiled binaries from the src directory.).
   * A shortcut if you are running Linux on a 64 bit computer: Just `git clone --depth 1 https://github.com/sanskrit-coders/stardict` in your home directory.
-* Clone dict-tools repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/dict-tools.git` to get just the latest files.)
-* Clone this repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git` to get just the latest files.)
+- Install stardict-tools-git
+  - Replaces outdated step: `git clone git@github.com:sanskrit-coders/stardict.git`. Then build it with ./configure, make etc..
+- Clone dict-tools repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/dict-tools.git` to get just the latest files.)
+- Clone this repo. (You can use `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git` to get just the latest files.)
 
 ## Update dictionary files
 With `sa-vyAkaraNa/laghu-kaumudi/laghu-kaumudi.babylon` as an example:
