@@ -12,13 +12,14 @@ Table of content
    - [Cologne to babylon convertor](#cologne-to-babylon-convertor)
 
 # Dictionary user instructions
-## Grab latest files to use for with my stardict compatible program.
+## Grab latest files to use for with your stardict compatible program.
 Options:
+* See tips in <https://sanskrit-coders.github.io/site/pages/dictionaries/offline.html>
 * Just download and extract [all_dicts_stardict_sanskrit.tar.gz](https://archive.org/download/stardict_collections/all_dicts_stardict-sanskrit.tar.gz)
 * `git clone --depth 1 https://github.com/sanskrit-coders/stardict-sanskrit.git`
 
 ## Dictionary program recommendations and download help (esp for mobile devices)
-* <https://sites.google.com/site/sanskritcode/dictionaries>
+* <https://sanskrit-coders.github.io/site/pages/dictionaries/offline.html>
 
 # Dictionary developer instructions
 ## Initial  setup.
