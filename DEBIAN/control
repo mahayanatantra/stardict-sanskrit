@@ -6,7 +6,7 @@ Maintainer: Sanskrit Programmers <sanskrit-programmers@googlegroups.com>
 Architecture: all
 Version: 0.1
 Suggests: goldendict, stardict-gtk
-Homepage: https://sites.google.com/site/sanskritcode/
+Homepage: https://sanskrit-coders.github.io/site/pages/dictionaries/offline.html
 Description: Provides the following stardict sanskrit dictionaries from Ajit ( http://www.aupasana.com/stardict ):
 Bidirectional Apte and Monier-Williams dictionaries.
 nyāsa devanāgarī output
